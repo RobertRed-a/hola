@@ -7,3 +7,6 @@ adadasdasdasd
 
 (more info)[http://robertredart.tumblr.com/]
 **gsgdfg** *hola*
+
+bootstrap
+d3
